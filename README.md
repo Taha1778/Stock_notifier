@@ -143,7 +143,7 @@ pip install -r requirements.txt
 
 **Your Name Here**  
 Developed in Python 3.13  
-GitHub: [@YourUsername](https://github.com/YourUsername)
+GitHub: [@taha1778](https://github.com/taha1778)
 
 ---
 
